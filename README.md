@@ -3,6 +3,10 @@
 
 <br/>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonsung1234)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 <h2>Middle School Student</h2>
 
 -- I'm a grade middle school student. (저는 중학교 1학년 학생입니다.)
@@ -29,10 +33,6 @@
 <br/>
 
 <h3>Text can be weird because I didn't use translator. (번역기를 사용하지 않아서, 글자가 이상할 수 있습니다.)<h3>
-
-<br/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonsung1234)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
