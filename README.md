@@ -9,7 +9,7 @@
 
 <h2>Middle School Student</h2>
 
-💬 I'm a grade middle school student. (저는 중학교 1학년 학생입니다.)
+💬 I born in 2007. (저는 07년생 입니다.)
 <br/>
 💬 I have started programing when I was 6th grade. (6학년때부터 프로그래밍을 시작했습니다.)
 
