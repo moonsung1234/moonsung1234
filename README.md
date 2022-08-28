@@ -32,10 +32,6 @@
 <br/>
 <br/>
 
-<h3>🤔 Text can be weird because I didn't use translator. (번역기를 사용하지 않아서, 글자가 이상할 수 있습니다.)<h3>
-
-<br/>
-
 - tistory blog : https://moonsung.tistory.com 
 - naver blog : https://blog.naver.com/dit67890
 
