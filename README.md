@@ -3,8 +3,8 @@
 
 <br/>
 
-![minseo github stats](https://github-readme-stats.vercel.app/api?username=moonsung1234&show_icons=true&theme=tokyonight )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonsung1234&langs_count=6&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Kinesys/github-readme-stats)
+![minseo github stats](https://github-readme-stats.vercel.app/api?username=moonsung1234&show_icons=true )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonsung1234&langs_count=6&layout=compact&show_icons=true)](https://github.com/Kinesys/github-readme-stats)
 
 <br/>
 
